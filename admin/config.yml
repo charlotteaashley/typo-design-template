@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: charlotteaashley/typo-design-template Path to your GitHub repository
+  repo: charlotteaashley/typo-design-template #Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: typeashley.netlify.app #Your site on netlify
   use_graphql: true
