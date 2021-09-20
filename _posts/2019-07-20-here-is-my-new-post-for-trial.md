@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: Type Words of Wisdom
 date: 2020-06-24 17:50
 image: ../uploads/amador-loureiro-bvynlchwqzs-unsplash.jpg
 caption: Type Words of Wisdom
