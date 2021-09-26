@@ -15,4 +15,8 @@ When analysing the title of the Vogue front cover the typography used is consist
 
 **The Subheadings/Cover lines**
 
-A neutral, serif font used for the cover lines of the magazine makes it easier on the eye for the reader as it highlights the dfferent pieces of information on the page. Having a simplistic form of font as the cover lines enables the reader to easily spot the contents of the magazine
+A neutral, serif font used for the cover lines of the magazine makes the cover look well put together as the same professional branding message is suggested throughout the page. In contrast to the main title font, the subheadings are not in bold and portrayed more subtly by proving to be natural colours. The comparison of the harsh bold font of the masthead against the more neutral tones of the cover lines allows the reader to understand the importance of order in what to read on the cover. One would argue that the more pasty colour tones of the subheading fonts dictate a more feminine representation, which determines the gender of the taregted audience. 
+
+**Article Titles**
+
+Within the magazine the titles of the articles are a coloured sans serif font, this more easily-read font enables the reader to diffrenciate the heading of the content inside, as its easily on the eye.
