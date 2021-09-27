@@ -2,13 +2,13 @@ backend:
   name: github
   repo: charlotteaashley/typo-design-template #Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: typeashley.netlify.app #Your site on netlify
+  site_domain: typemedia.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://typeashley.netlify.app
-logo_url: https://typeashley.netlify.app/uploads/logo.jpg
+display_url: https://typemedia.netlify.app
+logo_url: https://typemedia.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
