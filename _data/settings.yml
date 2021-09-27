@@ -1,6 +1,6 @@
 title: Type Media
-description: A website with a blog
-footer_text: Copyright 2021 Your name
+description: ""
+footer_text: Copyright 2021 Charlotte Ashley
 header_feature_image: ../uploads/placeholder2.jpg
 header_text: Typography in Print Media
 header_text_color: "#ffffff"
@@ -11,3 +11,7 @@ favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - tab: true
+    name: charlotteaashley
+    siteurl: www.charlotteaashley.wordpress.com
