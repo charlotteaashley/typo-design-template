@@ -19,7 +19,7 @@ The use of typography has a major influence on the success and recognition a for
 
 When analysing the title of the Vogue front cover the typography used is consistent throughout the magazines; which enables the brand to become recognisable and be familiar to the audiences. The modernised serif font *'didot'*  which was developed in the 1700s, is used as the typeface on the cover of the monthly magazines, originated from a famous French printing, it links to the definition of the word Vogue: 'style' in French. The connection between the French font choice being used on the actual branding of the French name symbolises its sophistication as the serif font is demonstrated to have an overall classy tone of the media type. Having a consistent use of the bold font on all magazines highlights to the audience that it is the title and draws their attention in first. Each magazine has a different colour dependent on the cover image of the certain edition used as the title, however the bold outline of the font is used throughout which emphasises the unique recognition the brand is conveying to its' audience. The high contrast of the 'didot' typeface 'Vogue' illustrates a fragile and stylish tone which is what the fashion magazine attempts to conveys throughout their pages.
 
-![The elegance of 'Didot'](../uploads/4e0ec8b52a334f1d38e124a6d5159588.jpg "The elegance of 'Didot'")
+![The typeface 'Didot' proves to be of sophistication and elegance as it is used as the masthead of Vogue, allowing the brand to construct a recognition to look classy and professional.](../uploads/4e0ec8b52a334f1d38e124a6d5159588.jpg "The elegance of 'Didot'")
 
 ### ***Subheadings/Cover lines***
 
