@@ -6,4 +6,6 @@ image: ../uploads/shayna-douglas-tqv8qkwueza-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-Harry Potter's books
+As previously discussed, it has been demonstrated that typography is essential to the branding of print media. Looking at the phenomenon of the Harry Potter book sequal, a unique font is used to differentiate their   The Harry Potter book series 
+
+![](../uploads/screenshot-2021-10-03-at-18.36.20.png)
