@@ -10,7 +10,7 @@ The Harry Potter book franchise has major recognition in regards to the typograp
 
 > "Since the release of Harry Potter and the Philosopher's Stone in 1997, the seven books have been published around the world with more than 200 different cover." *\- Harry Potter fanzone*
 
-## The different typefaces for the covers
+## The different typefaces of the covers
 
 ### ***Harry P:***
 
@@ -21,3 +21,5 @@ This font with the lighting bolt incoperation was first illustrated by American 
 ### *Times New Roman:*
 
 On the U.K bloomsbury editions of the novels, the font 'Times New Roman' is used with slight alterations.
+
+![](../uploads/screenshot-2021-10-04-at-23.09.38.png)
