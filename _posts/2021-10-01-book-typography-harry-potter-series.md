@@ -12,6 +12,6 @@ The Harry Potter book franchise has major recognition in regards to the typograp
 
 ## The different typefaces for the covers:
 
-The 'Harry P' font with the lighting bolt incoperation was first illustarted by American illustrator Mary GrandPré, she used this font for the U.S editions of the Harry Potter book series
+The 'Harry P' font with the lighting bolt incoperation was first illustarted by American illustrator Mary GrandPré, she used this font for the U.S editions of the Harry Potter book series. 
 
 ![](../uploads/screenshot-2021-10-03-at-18.36.20.png)
