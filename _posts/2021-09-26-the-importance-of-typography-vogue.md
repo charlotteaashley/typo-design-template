@@ -2,7 +2,7 @@
 layout: post
 title: "The Importance of Typography: Vogue"
 date: 2021-09-26T19:59:04.981Z
-image: ../uploads/laura-chouette-rme3feons2s-unsplash.jpg
+image: ../uploads/photo-1514679725149-ecaa6013d817.webp
 title_color: "#ffffff"
 caption: Different editions of Vogue magazine
 comments: false
