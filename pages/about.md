@@ -1,7 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About
-subtitle: Why typography interests me?
+image: ../uploads/photo-1523868157789-c313eb2f1ee9.webp
+subtitle: Passion for Print Typography
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
@@ -10,7 +11,7 @@ tags: null
 description: null
 show: true
 ---
-
+Typog
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
