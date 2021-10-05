@@ -13,5 +13,5 @@ fixednavbar: true
 upzoom: true
 items:
   - tab: true
-    name: charlotteaashley
+    name: My Blog
     siteurl: https://charlotteaashley.wordpress.com
