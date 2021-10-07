@@ -11,12 +11,9 @@ tags: null
 description: null
 show: true
 ---
-## What I do in this blog?
+## What have I conducted in this blog?
 
-The main ideas of this blog is analysing typography in different forms of print media. Looking at the reasonings and the importance of the print's choices and how much of an effect the typography has in terms of reputations, branding and recognition.   
-
-
-
+The main ideas of this blog is analysing typography in different forms of print media. Looking at the reasonings and the importance of the choices print media forms make and how much of an effect the typography has in terms of reputations, branding and recognition. 
 
 
 
