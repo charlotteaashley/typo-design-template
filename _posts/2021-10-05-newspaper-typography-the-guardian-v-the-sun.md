@@ -12,7 +12,7 @@ Looking at two newspapers which are on opposite ends of the spectrum; *The Guard
 
 ### *The Guardian:*
 
-The Guardian newspaper title is the font 'guardian egyptian' which is a type face of a slab-serif, it was designed by Christian Schwartz and Paul Barnes in 2004.
+The Guardian newspaper title is the font 'guardian egyptian' which is a type face of a slab-serif, it was designed by Christian Schwartz and Paul Barnes in 2004. The masthead of the broadsheet connotes sophistication due to the serif typeface as it shows traditional and old-fas
 
 ![](../uploads/screenshot-2021-10-05-at-14.10.03.png)
 
