@@ -22,6 +22,6 @@ The tabloid newspaper The Sun uses 'franklin gothic heavy' font in italics for t
 
 ![The masthead of The Suns' masthead is a sans-serif font, a more basic font which is easier to read; linking to their audiences.](../uploads/the-sun.png)
 
-### *Comparison/differences between the two mastheads:*
+### *The Conclusion:*
 
-When analyisng the two different newspaper mastheads it is proven that both gage their readers by having a bold and eye catching title, using heavy weights and low constrasts
+When analyisng the two different newspaper mastheads it is proven that both gage their readers by having a bold and eye catching title, using heavy weights and low constrasts allows the text to be prominent. Both newspapers target different demographics which is evident in the typography of their mastheads, The Guardian aims at a higher more upper class demographic which is evident through the serif typeface as the typography of the title; in comparison to The Sun, where their demographic is a lot lower and would be perceived as 'uneducated', they use a sans-serif font which lacks sophistication and is seen more basic.
