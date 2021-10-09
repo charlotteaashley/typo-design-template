@@ -31,13 +31,13 @@ Comparing different brands in terms of the typefaces they use within this blog a
 
 I designed my logo so it gave the understanding of the general idea of the blog: print media typography. I placed 'TM' meaning type media on top of a book page layout, I used placeholder text behind the main capitals with a line down the middle to give the sense of a novel; as a form of print media. I went for a traditional black and white colour scheme as print is formally linked to more old-school and black and white. I used a serif font for the abbreviated *'Typemedia'* as its a more traditional and can link to the black and white era asmost fonts hadn't been devloped by then, also books are predominantly in serif font and as a form of print media, I felt it linked efficiently.
 
-From this logo I also created a favicon using [favicon.io ](favicon.io)of a simple 'T' connoting to *typography,* I styled it in a black coloured *Note Serif Display* typeface which was a simailr style to the logo used, as well as the alike colour scheme.
+From this logo I also created a favicon using [](favicon.io)[https://favicon.io ](https://favicon.io)of a simple 'T' connoting to *typography,* I styled it in a black coloured *Note Serif Display* typeface which was a simailr style to the logo used, as well as the alike colour scheme.
 
 ![My logo which I designed via inDesign.](../uploads/screenshot-2021-10-04-at-12.28.32.png)
 
 ***The Banner:***
 
-I chose this banner image from [unsplash.com ](unsplash.com)as it visually shows the readers examples of the forms of print media and the array of typography titles that are used. The array of magazine front covers highlights the typography choices are used for different branding and genres of print media forms.
+I chose this banner image from [https://unsplash.com ](https://unsplash.com)[](unsplash.com)as it visually shows the readers examples of the forms of print media and the array of typography titles that are used. The array of magazine front covers highlights the typography choices are used for different branding and genres of print media forms.
 
 ![The banner image I used to highlight different typography of print media forms.](../uploads/charisse-kenion-8zsmlyaaufg-unsplash.jpg)
 
