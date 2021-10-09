@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: What's TypeMedia about?
+title: What's TypeMedia About?
 image: ../uploads/photo-1523868157789-c313eb2f1ee9.webp
 subtitle: Passion for Print Typography
 permalink: /about/
