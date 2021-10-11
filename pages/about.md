@@ -23,6 +23,8 @@ It is fascinating finding the research and analysing the different forms of prin
 * Newspapers
 * Books
 
+Looking at these forms of print media and analysising the typography used as mastheads, titles and chapter titles within them, it highlights each form follows a different way of connoting their brand to their audiences. For example, annotating the typefaces chosen in Vogue compares drastically agaisnt the typefaces chosen in children's book and Harry Potter novels. Then looking at newspapers' font choices agaisnt recipe book typefaces, it is evident to us that each form conducts specific research when choosing cover typography to hit the certain audience type.
+
 Comparing different brands in terms of the typefaces they use within this blog also gives an understanding of the different typography choices and what they connote. Many would say the serif typeface conducts more of a sophisticated tone in opposition to a sans-serif font which is more basic, however does show a modern interpretation.
 
 ## Why have I used the banner image and my created logo?
@@ -37,7 +39,7 @@ From this logo I also created a favicon using [](favicon.io)[https://favicon.io 
 
 ***The Banner:***
 
-I chose this banner image from [https://unsplash.com ](https://unsplash.com)[](unsplash.com)as it visually shows the readers examples of the forms of print media and the array of typography titles that are used. The array of magazine front covers highlights the typography choices are used for different branding and genres of print media forms.
+I chose this banner image from [https://unsplash.com ](https://unsplash.com)[](unsplash.com)as it visually shows the readers examples of the forms of print media and the array of typography titles that are used. The array of magazine front covers highlights the typography choices are used for different branding and genres of print media forms. It is a simple image whereby it is easily understood to the audience the main focus of the website.
 
 ![The banner image I used to highlight different typography of print media forms.](../uploads/charisse-kenion-8zsmlyaaufg-unsplash.jpg)
 
@@ -45,4 +47,4 @@ I chose this banner image from [https://unsplash.com ](https://unsplash.com)[](u
 
 ***TypeMedia:***
 
-I chose to title my site 'TypeMedia' because it abbreviates to the typography of media, I didn't include print within the name as the book background within the logo symbolise this. Another reasoning to why I chose it was because in print media, text tends to be *'typed'* rather than other forms of media; I thought the play-on words were rather figurative.
+I chose to title my site 'TypeMedia' because it abbreviates to the typography of media, I didn't include print within the name as the book background within the logo symbolise this. Another reasoning to why I chose it was because in print media, text tends to be *'typed'* rather than other forms of media; I thought the play-on words were rather figurative. It is a simple yet effective name for a website with the main aspects of what's going to be discussed in the website in its name.
