@@ -1,6 +1,6 @@
 ---
 title: Search
-subtitle: What print media typography analysis are you looking for?
+subtitle: What print media typography are you looking for?
 permalink: /search/
 show: true
 layout: search
