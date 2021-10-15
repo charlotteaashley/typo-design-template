@@ -20,7 +20,7 @@ The novel 'The Poky Little Puppy' is an example of a childrens book published in
 
 ![The typeface 'Humanist' is used within the contents of the 1942 book 'The Poky Little Puppy'.](../uploads/screenshot-2021-10-15-at-15.56.25.png)
 
-However, the typography chosen for the cover of the novel, uses the typeface '*handwriting',* this is easily read and it gives the impression that someone young has written it themselves. 
+However, the typography chosen for the cover of the novel, uses the typeface '*handwriting',* this is easily read and it gives the impression that someone young has written it themselves. The contrast of the cover typeface compared to the serif typeface inside the book, gives the 
 
 ![The typography of the heading is the typeface 'handwriting' ](../uploads/screenshot-2021-10-15-at-17.15.13.png)
 
