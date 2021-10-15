@@ -2,7 +2,7 @@
 layout: post
 title: Typography in Children's Books
 date: 2021-10-11T08:44:35.701Z
-image: ../uploads/photo-1455884981818-54cb785db6fc.webp
+image: ../uploads/screenshot-2021-10-15-at-17.30.38.png
 title_color: "#ffffff"
 comments: false
 ---
