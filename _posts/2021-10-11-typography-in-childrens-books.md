@@ -32,7 +32,7 @@ As print media has developed over the years and the popularity of children's boo
 
 **What the Ladybird Heard at the Seaside:**
 
-
+The picture book illustrated by Lydia Monks is an efficient example of using *sans-serif* font with slight uses of the *handwriting* typeface, this again gives the illusion of one of the characters within the book has written it, or the children readers themselves. The lettering of 
 
 ![Example of a Waterstones 2020 Children's Book which shows a sans-serif typeface as the display font.](../uploads/screenshot-2021-10-16-at-15.24.44.png)
 
