@@ -16,7 +16,7 @@ Looking at the history of typography used within children novels, typefaces used
 
 **The Poky Little Puppy:** 
 
-The novel 'The Poky Little Puppy' is an example of a childrens book published in 1942 whereby the typography follows the conventions of the style which was popular within the 1900s. The use of the *humanist* typeface within the inside text allows it to be easily read by the children as analyised above. The lack of text beneath the image also indicates that it is for younger readers as more dense, heavy text would be appealing to an older audience. 
+The novel 'The Poky Little Puppy' is an example of a childrens book published in 1942 whereby the typography follows the conventions of the style which was popular within the 1900s. The use of the *humanist* typeface within the inside text allows it to be easily read by the children as analysed above. The lack of text beneath the image also indicates that it is for younger readers as more dense, heavy text would be appealing to an older audience. 
 
 ![The typeface 'Humanist' is used within the contents of the 1942 book 'The Poky Little Puppy'.](../uploads/screenshot-2021-10-15-at-15.56.25.png)
 
