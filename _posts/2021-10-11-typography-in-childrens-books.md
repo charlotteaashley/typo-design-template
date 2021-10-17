@@ -22,9 +22,9 @@ The novel 'The Poky Little Puppy' is an example of a childrens book published in
 
 However, the typography chosen for the cover of the novel, called the *display font*, uses the typeface '*handwriting'* all in capitals*,* this is easily read and it gives the impression that someone young has written it themselves. The contrast of the cover typeface compared to the serif typeface inside the book gives the book an appeal as it shows a more youthful tone on the cover. The modern sans-serif font enables it to be easily read and seen due to its capitalisation. 
 
-![The typography of the heading is the typeface 'handwriting' ](../uploads/screenshot-2021-10-15-at-17.15.13.png)
+![The typography of the heading is the typeface 'handwriting'.](../uploads/screenshot-2021-10-15-at-17.15.13.png)
 
-Analyse source: [https://type-ed.com/resources/rag-right/2016/10/03/typography-childrens-books](<https://type-ed.com/resources/rag-right/2016/10/03/typography-childrens-books>)
+Analyse source: <https://type-ed.com/resources/rag-right/2016/10/03/typography-childrens-books>
 
 ### The Typography of Modern Children's Books
 
@@ -32,13 +32,11 @@ As print media has developed over the years and the popularity of children's boo
 
 **What the Ladybird Heard at the Seaside:**
 
-The picture book illustrated by Lydia Monks is an efficient example of using *sans-serif* font with slight uses of the *handwriting* typeface, this again gives the illusion of one of the characters within the book has written it, or the children readers themselves. The lettering of 
+The picture book illustrated by Lydia Monks is an efficient example of using *sans-serif* font with slight uses of the *handwriting* typeface, this again gives the illusion of one of the characters within the book has written it, or the children readers themselves. The comparison of the 1900s children's books to the more modern children's novels highlights that there has been more evoulution in terms of typography chosen, the sans-serif typeface chosen allows a more easy understanding for the children and shows less traditionalism. 
 
 ![Example of a Waterstones 2020 Children's Book which shows a sans-serif typeface as the display font.](../uploads/screenshot-2021-10-16-at-15.24.44.png)
 
-<https://www.indiekidsbooks.com/p/what-fonts-for-childrens-books>
-
-
+Analytical source: <https://www.indiekidsbooks.com/p/what-fonts-for-childrens-books>
 
 From looking at the layout and typography of childrens books it is clear of the features that make them differentiate from older reader books. A large format, type size and white space with heavy illustrations connotes a more younger audience is being aimed at, compared to smaller fonts with dense text is for older readers. 
 
