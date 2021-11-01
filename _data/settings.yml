@@ -15,3 +15,5 @@ items:
   - tab: true
     name: My Blog
     siteurl: https://charlotteaashley.wordpress.com
+  - name: About Me
+    siteurl: /aboutme/
