@@ -10,7 +10,7 @@ Cook books have got a distinctive typography choice throughout all books publish
 
 ## Cookbook Titles
 
-On the covers of cook book recipe books, 
+On the covers of cook book recipe books, traditional 
 
 
 
