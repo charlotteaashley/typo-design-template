@@ -10,11 +10,7 @@ Cook books have got a distinctive typography choice throughout all books publish
 
 ## Cookbook Titles
 
-On the covers of cook book recipe books, traditional 
-
-
-
-
+On the covers of cook book recipe books, traditional typefaces which are used within the body are enlarged and bolded to be used as the masthead, this is 
 
 
 
