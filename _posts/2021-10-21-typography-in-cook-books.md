@@ -2,7 +2,7 @@
 layout: post
 title: Typography in Cook Books
 date: 2021-10-21T19:46:00.376Z
-image: ../uploads/photo-1612031736184-77bc60f94c06.webp
+image: ../uploads/photo-1619819583905-2d5228bf4560.webp
 title_color: "#ffffff"
 comments: false
 ---
