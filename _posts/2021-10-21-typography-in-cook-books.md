@@ -20,6 +20,21 @@ From the data presented above, the infographic highlights that between the years
 
 #### *Title of the recipe:*
 
+From the statistics it is evident that over 68% of recipe titles within cookbooks from the 1800s were in a serif typeface, as assessed these could be of: 
+
+* Georgia
+* Adobe Garamond Pro
+* Minion Pro
+* Palatino
+* Baskerville
+* Goudy Old Style
+
+The titles of the recipe are usually the first part of text that is aimed to be seen therefore it is important that the bold style grabs the attention of the consumer
+
+#### *Preparation Text:*
+
+
+
 
 
 ## Typography Analysis 1901-2001
