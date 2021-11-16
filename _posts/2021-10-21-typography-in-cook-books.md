@@ -29,20 +29,14 @@ From the statistics it is evident that over 68% of recipe titles within cookbook
 * Baskerville
 * Goudy Old Style
 
-The recipe titles are usually the part of text that is aimed to be seen first therefore it is important that the bold style grabs the attention of the consumer. The use of the serif typefaces establish
+The recipe titles are usually the part of text that is aimed to be seen first therefore it is important that the bold style grabs the attention of the consumer. The use of the serif typefaces establishes the traditional theme of recipe books
 
 #### *Preparation Text:*
-
-
-
-
 
 ## Typography Analysis 1901-2001
 
 ![The data gathered revolving around typography choices in 1900s cookbooks. ](../uploads/screenshot-2021-11-16-at-15.32.14.png)
 
 Source analysis: <https://www.behance.net/gallery/10862893/Master-thesis-cookbooks-analysis>
-
-
 
 Source analysis: <http://www.selfpublishacookbook.com/info/how-to-design-cookbook/more/what-fonts-to-use-in-your-cookbook>
