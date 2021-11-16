@@ -29,7 +29,7 @@ From the statistics it is evident that over 68% of recipe titles within cookbook
 * Baskerville
 * Goudy Old Style
 
-The titles of the recipe are usually the first part of text that is aimed to be seen therefore it is important that the bold style grabs the attention of the consumer
+The recipe titles are usually the part of text that is aimed to be seen first therefore it is important that the bold style grabs the attention of the consumer. The use of the serif typefaces establish
 
 #### *Preparation Text:*
 
