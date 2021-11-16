@@ -16,7 +16,11 @@ On the covers of cook book recipe books, traditional typefaces which are used wi
 
 ![Data gathered providing typography choices in 1800s cookbooks.](../uploads/screenshot-2021-11-16-at-15.32.00.png)
 
-From the data presented above, the infographic highlights that between the years of 1808-1900 
+From the data presented above, the infographic highlights that between the years of 1808-1900 serif fonts are most popular in terms of typography choices regarding titles of recipes and the text within the book. With the addition of bold style, it demonstrates that the traditional and bold typefaces were popular within the time period. 
+
+#### *Title of the recipe:*
+
+
 
 ## Typography Analysis 1901-2001
 
