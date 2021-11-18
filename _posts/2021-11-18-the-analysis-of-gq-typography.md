@@ -42,4 +42,4 @@ The more recent edition of the GQ magazine shows all cover lines being of sans-s
 
 ## Overview
 
-To conclude after the analysis of the typography used for the GQ magazine, it is evident that the publication aimed to have a fresh and modern look for the first mens magazine release therefore chose a distinct sans-serif font of 'Gotham' to use as the masthead and majority of cover lines on the cover page of the magazine.
+To conclude after the analysis of the typography used for the GQ magazine, it is evident that the publication aimed to have a fresh and modern look for the first mens magazine release therefore chose a distinct sans-serif font of 'Gotham' to use as the masthead and majority of cover lines on the cover page of the magazine. Emphasising that in fashion magazines the typefaces within the sans-serif family are rising to popularity as more of a youthful and modern tone, compared to the traditional fonts of serif.
