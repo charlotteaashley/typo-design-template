@@ -6,7 +6,7 @@ image: ../uploads/screenshot-2021-11-18-at-14.21.02.png
 title_color: "#ffffff"
 comments: false
 ---
-GQ magazine is an 'American internatioanl monthly men's magazine based in New York City.' Founded in 1931, the magazine is aimed at males of a higher demographic audience. The magazine shows sophistiacted through the use of typography choices made. the modern magazine focuses on the publication of topics:
+GQ magazine is an 'American international monthly men's magazine based in New York City' with a print readership of 10.7 million per month. Founded in 1931, the first men's magazine is aimed at young males aged 18-25 of a higher demographic audience. The modern magazine shows sophistication but youthfulness through the use of typography choices made and focuses on the publication of topics:
 
 * Fashion
 * Style and Culture for men
@@ -18,6 +18,14 @@ GQ magazine is an 'American internatioanl monthly men's magazine based in New Yo
 
 ## Masthead Choices
 
-On the front cover of the GQ magazines, the masthead is the typeface *'Gotham.'* This is a sans-serif font which was designed by American Type Designer Tobias Frere-Jones, and released in 2000. The inspiration of the creation for the font came from examples of architectural signs of the mid 1900s. 
+On the front cover of the GQ magazines, the masthead is the typeface *'Gotham.'* This is a sans-serif font which was designed by American Type Designer Tobias Frere-Jones, and released in 2000. The inspiration of the creation for the font came from examples of architectural signs of the mid 1900s. The title is of a '*heavy weight'* which proves the bold aspect to stand out, connoting a bold statement from the magazine. Its *'regular width'*  is shown by the overlap of the two letters, with a *'low contrast'* aiding its' boldness and attempt to stand out to consumers. The capitalisation used is to emphasis that '*bold statement'* which is styled through the *'heavy weight'.* 
 
-![](../uploads/gotham.png)
+![The typeface of the GQ masthead 'Gotham.'](../uploads/gotham.png)
+
+The masthead typeface choice indicates a modern and sleek look. The use of a sans-serif font being used as the title of the magazine cover suggests the piece of print media is aimed at a more younger audience. The font is seen as a more contemporary, sleek font compared to serif which shows more traditional and professional qualities. 
+
+## Cover Lines
+
+The typography of the GQ magazine cover lines differ between sans-serif and serif font with the array of *heavy weight* styles and bolded words. 
+
+![April 2021 Edition shows more of serif typefaces as ](../uploads/gq-tom-holland.jpeg)
