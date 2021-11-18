@@ -38,4 +38,4 @@ The Tom Holland edition of the GQ magazine proves to have a variety of mixed ser
 
 ![The GQ September 2021 Edition shows more sans-serif typefaces as cover lines. ](../uploads/weeknd-gq.jpeg)
 
-The more recent edition of the GQ magazine shows all cover lines being sans-serif typefaces which fit the theme with the consistent use of all the cover lines being the same. However, this edition above shows a lot to be of a *'heavy weight'* which depicts the boldness and
+The more recent edition of the GQ magazine shows all cover lines being of sans-serif typefaces which fit the theme with the consistent use of all the cover lines being the same. However, this edition above shows the majority of the cover line text to be of a *'heavy weight'* which depicts the boldness and grabs the attention of the readers by teasing what is inside. The '*condensed'* style of the main title cover lines make the cover look tightly compact.
