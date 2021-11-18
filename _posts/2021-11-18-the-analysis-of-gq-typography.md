@@ -6,7 +6,7 @@ image: ../uploads/screenshot-2021-11-18-at-14.21.02.png
 title_color: "#ffffff"
 comments: false
 ---
-GQ magazine is an 'American internatioanl monthly men's magazine based in New York City.' Founded in 1931, the modern magazine focuses on the publication of topics:
+GQ magazine is an 'American internatioanl monthly men's magazine based in New York City.' Founded in 1931, the magazine is aimed at males of a higher demographic audience. The magazine shows sophistiacted through the use of typography choices made. the modern magazine focuses on the publication of topics:
 
 * Fashion
 * Style and Culture for men
