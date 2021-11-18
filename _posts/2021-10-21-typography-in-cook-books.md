@@ -43,7 +43,7 @@ Following consistent conventions, the page numbering within the 1800s cookbooks 
 
 ![The data gathered revolving around typography choices in 1900s cookbooks. ](../uploads/screenshot-2021-11-16-at-15.32.14.png)
 
-Constrastingly, the data gathered from a century later during the years 1901-2001 deplicts a change in typeface used, significantly in the preparation text as the bulk text within the books. It is also evident that the font style has differed demostrating a loss in use of bold style at only 62% compared to a previous 75% in the 1800s.
+Constrastingly, the data gathered from a century later during the years 1901-2001 deplicts a change in typeface used, significantly in the preparation text as the bulk text within the books. It is also evident that the font style has differed demostrating a loss in use of bold style at only 62% compared to a previous 75% in the 1800s, which has been dominated by a higher use of italics at 27% from 16.75%.
 
 #### *Title of the Recipe:*
 
@@ -55,9 +55,11 @@ These statistics highlight the most change in comparison to the century prior by
 
 #### *Page Numbering:*
 
+The page numbering of the cookbooks within the years 1901-2001 differs significantly from the year prior as it shows more than 75% was sans-serif typeface against the 100% serif fonts the century before. This implies development in the typefaces used within print, similarly to the preparation text as it shows the consistency througout the pages.
 
+## Conclusion
 
-
+In conclusion, the comparison between the years of 1800 and the 1900 cookbooks typography highlights that their has been change in the choices of typefaces used within print media. The more traditional serif font and bold style was used on the older cookbooks with a lack of variation between the two sans-serif and serif typefaces. Whereas the cookbooks within the 20th century had developed in terms of typography choices which were shifted to a more modern look of sans-serif, especially in the bulk of the text within the books. The style of italics also became more popular as the bold dropped. 
 
 Source analysis: <https://www.behance.net/gallery/10862893/Master-thesis-cookbooks-analysis>
 
