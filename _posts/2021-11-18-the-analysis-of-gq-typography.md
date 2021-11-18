@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GQ Magazine: Typography Analysis"
-date: 2021-11-18T14:13:58.109Z
+date: 2021-11-18T21:26:48.201Z
 image: ../uploads/screenshot-2021-11-18-at-14.21.02.png
 title_color: "#ffffff"
 comments: false
