@@ -33,9 +33,7 @@ The recipe titles are usually the part of text that is aimed to be seen first th
 
 #### *Preparation Text:*
 
-The infographic shows that the texts within the recipe books were 100% serif font
-
-
+The infographic shows that the texts within the recipe books were 100% serif font used. Having no other differing fonts used within the bulk of the text
 
 ## Typography Analysis 1901-2001
 
