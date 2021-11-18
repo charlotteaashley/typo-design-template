@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Analysis of GQ Typography
+title: The Analysis of GQ Magazine Typography
 date: 2021-11-18T14:13:58.109Z
 image: ../uploads/screenshot-2021-11-18-at-14.21.02.png
 title_color: "#ffffff"
@@ -38,4 +38,8 @@ The Tom Holland edition of the GQ magazine proves to have a variety of mixed ser
 
 ![The GQ September 2021 Edition shows more sans-serif typefaces as cover lines. ](../uploads/weeknd-gq.jpeg)
 
-The more recent edition of the GQ magazine shows all cover lines being of sans-serif typefaces which fit the theme with the consistent use of all the cover lines being the same. However, this edition above shows the majority of the cover line text to be of a *'heavy weight'* which depicts the boldness and grabs the attention of the readers by teasing what is inside. The '*condensed'* style of the main title cover lines make the cover look tightly compact.
+The more recent edition of the GQ magazine shows all cover lines being of sans-serif typefaces which fit the theme with the consistent use of all the cover lines being the same. However, this edition above shows the majority of the cover line text to be of a *'heavy weight'* which depicts the boldness and grabs the attention of the readers by teasing what is inside. The '*condensed'* style of the main title cover lines make the cover look tightly compact. 
+
+## Overview
+
+To conclude after the analysis of the typography used for the GQ magazine, it is evident that the publication aimed to have a fresh and modern look for the first mens magazine release therefore chose a distinct sans-serif font of 'Gotham' to use as the masthead and majority of cover lines on the cover page of the magazine.
