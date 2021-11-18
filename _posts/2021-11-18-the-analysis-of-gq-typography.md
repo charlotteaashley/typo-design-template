@@ -28,6 +28,14 @@ The masthead typeface choice indicates a modern and sleek look. The use of a san
 
 The typography of the GQ magazine cover lines differ between sans-serif and serif font with the array of *heavy weight* styles and bolded words. 
 
-![The GQ April 2021 Edition shows more of serif typefaces as the cover lines.](../uploads/gq-tom-holland.jpeg)
+#### *April 2021 Edition - serif and sans-serif cover line fonts:*
 
-The Tom Holland edition of the GQ magazine proves to have a variety of mixed serif and sans-serif fonts
+![The GQ April 2021 Edition shows more serif typefaces as the cover lines.](../uploads/gq-tom-holland.jpeg)
+
+The Tom Holland edition of the GQ magazine proves to have a variety of mixed serif and sans-serif fonts for the cover lines; using this technique makes it more appealing to the reader as it breaks up a consistent font used. In the example above it is evident that more of the professional and important topics being hinted at inside have the serif fonts, which shows that those typefaces are more sophisticated. The serif fonts are also highlighted with an italic style demonstrating more important information. Serif font cover lines at the bottom of the page convey text with a *'light weight'* and '*high constrast'* showing a more delicate stance, compared to sans-serif typefaces where it is not perceived as dainty and gentle, it is more bulky and bold to catch the readers attention. 
+
+#### *September 2021 Edition - Serif cover line fonts:*
+
+![The GQ September 2021 Edition shows more sans-serif typefaces as cover lines. ](../uploads/weeknd-gq.jpeg)
+
+The more recent edition of the GQ magazine shows all cover lines being sans-serif typefaces which
