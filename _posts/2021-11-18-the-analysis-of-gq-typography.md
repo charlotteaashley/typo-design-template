@@ -22,11 +22,11 @@ On the front cover of the GQ magazines, the masthead is the typeface *'Gotham.'*
 
 ![The typeface of the GQ masthead 'Gotham.'](../uploads/gotham.png)
 
-The masthead typeface choice indicates a modern and sleek look. The use of a sans-serif font being used as the title of the magazine cover suggests the piece of print media is aimed at a more younger audience. The font is seen as a more contemporary, sleek font compared to serif which shows more traditional and professional qualities. 
+The masthead typeface choice indicates a modern, fresh and sleek look. The use of a sans-serif font being used as the title of the magazine cover suggests the piece of print media is aimed at a more younger audience. The font is seen as a more contemporary, sleek font compared to serif which shows more traditional and professional qualities. 
 
 ## Cover Lines
 
-The typography of the GQ magazine cover lines differ between sans-serif and serif font with the array of *heavy weight* styles and bolded words. 
+The typography of the GQ magazine cover lines differ between sans-serif and serif font with the array of *heavy weight* styles and bolded words. The sans-serif font being 'Gotham' typeface and the serif font being the traditional times new roman typeface. 
 
 #### *April 2021 Edition - serif and sans-serif cover line fonts:*
 
