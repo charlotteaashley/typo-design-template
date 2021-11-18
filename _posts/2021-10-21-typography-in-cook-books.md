@@ -57,7 +57,7 @@ These statistics highlight the most change in comparison to the century prior by
 
 The page numbering of the cookbooks within the years 1901-2001 differs significantly from the year prior as it shows more than 75% was sans-serif typeface against the 100% serif fonts the century before. This implies development in the typefaces used within print, similarly to the preparation text as it shows the consistency througout the pages.
 
-## Conclusion
+## Overview
 
 In conclusion, the comparison between the years of 1800 and the 1900 cookbooks typography highlights that their has been change in the choices of typefaces used within print media. The more traditional serif font and bold style was used on the older cookbooks with a lack of variation between the two sans-serif and serif typefaces. Whereas the cookbooks within the 20th century had developed in terms of typography choices which were shifted to a more modern look of sans-serif, especially in the bulk of the text within the books. The style of italics also became more popular as the bold dropped. 
 
