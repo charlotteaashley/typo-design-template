@@ -16,9 +16,9 @@ On the covers of cook book recipe books, traditional typefaces which are used wi
 
 ![Data gathered providing typography choices in 1800s cookbooks.](../uploads/screenshot-2021-11-16-at-15.32.00.png)
 
-From the data presented above, the infographic highlights that between the years of 1808-1900 serif fonts are most popular in terms of typography choices regarding titles of recipes and the text within the book. With the addition of bold style, it demonstrates that the traditional and bold typefaces were popular within the time period. 
+From the data presented above, the infographic highlights that between the years of 1808-1900 serif fonts are most popular in terms of typography choices regarding titles of recipes and the text within the book. With the addition of a 75% bold style, it demonstrates that the traditional and bold typefaces were popular within the time period. 
 
-#### *Title of the recipe:*
+#### *Title of the Recipe:*
 
 From the statistics it is evident that over 68% of recipe titles within cookbooks from the 1800s were in a serif typeface, as assessed these could be of: 
 
@@ -33,11 +33,31 @@ The recipe titles are usually the part of text that is aimed to be seen first th
 
 #### *Preparation Text:*
 
-The infographic shows that the texts within the recipe books were 100% serif font used. Having no other differing fonts used within the bulk of the text 
+The infographic shows that the texts within the recipe books were 100% serif font used. Having no other differing fonts used within the bulk of the text highlights that it is following conventions and performing a sophisticated tone throughout. 
+
+#### *Page Numbering:*
+
+Following consistent conventions, the page numbering within the 1800s cookbooks is also of a serif typeface, this conveys a traditional theme and keeps an accordant concept within all pages.
 
 ## Typography Analysis 1901-2001
 
 ![The data gathered revolving around typography choices in 1900s cookbooks. ](../uploads/screenshot-2021-11-16-at-15.32.14.png)
+
+Constrastingly, the data gathered from a century later during the years 1901-2001 deplicts a change in typeface used, significantly in the preparation text as the bulk text within the books. It is also evident that the font style has differed demostrating a loss in use of bold style at only 62% compared to a previous 75% in the 1800s.
+
+#### *Title of the Recipe:*
+
+Within the inforgraphic it displays practically the same percentages as the century before, which conveys that the heading of the recipe proves to be the same traditional font and is a consistent and popular choice within recipe books. 
+
+#### *Preparation Text:* 
+
+These statistics highlight the most change in comparison to the century prior by serif font dropping to only 29% use against the 100% in the 1800s. 'Sans-serif' font heavily takes over the text at 71% of the text within the cookbooks, suggesting a more modern and easily read stance. Using sans-serif as the bulk of the text inside the book contrasts against the title name giving the book some diversity and change. This is a given understanding that a change within years for typography of cookbooks has occured, emphasising a development in typographic font within print. 
+
+#### *Page Numbering:*
+
+
+
+
 
 Source analysis: <https://www.behance.net/gallery/10862893/Master-thesis-cookbooks-analysis>
 
